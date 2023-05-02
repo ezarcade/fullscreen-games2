@@ -2,4 +2,5 @@ div.text-box {
     width: 35%;
     background-color: beige;
     border-radius: 25px;
+    text-align: center;
 }
