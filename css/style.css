@@ -1,4 +1,4 @@
-div.text-box {
+.text-box {
     width: 35%;
     background-color: #d4a373;
     border-radius: 25px;
@@ -9,6 +9,6 @@ body {
     background-color: #faedcd;
 }
 
-div.text-box:hover {
+.text-box:hover {
     width: 50%;
 }
