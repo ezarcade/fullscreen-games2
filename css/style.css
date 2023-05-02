@@ -3,4 +3,5 @@ div.text-box {
     background-color: beige;
     border-radius: 25px;
     text-align: center;
+    margin: auto;
 }
