@@ -1,7 +1,10 @@
 div.text-box {
     width: 35%;
-    background-color: beige;
+    background-color: #d4a373;
     border-radius: 25px;
     text-align: center;
     margin: auto;
+}
+body {
+    background-color: #fefae0;
 }
