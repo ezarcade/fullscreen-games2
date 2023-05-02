@@ -1,5 +1,5 @@
 .text-box {
-    width: fit-content;
+    width: 20%;
     background-color: #d4a373;
     border-radius: 25px;
     text-align: center;
@@ -11,6 +11,6 @@ body {
 }
 
 .text-box:hover {
-    width: fit-content + 15%;
+    width: 40%;
     transition: width 0.5s;
 }
