@@ -8,3 +8,7 @@ div.text-box {
 body {
     background-color: #faedcd;
 }
+
+div.text-box:hover {
+    width: 50%;
+}
