@@ -4,6 +4,7 @@
     border-radius: 25px;
     text-align: center;
     margin: auto;
+    transition: all 0.5s ease-in-out;
 }
 body {
     background-color: #faedcd;
@@ -11,4 +12,5 @@ body {
 
 .text-box:hover {
     width: 50%;
+    transition: width 0.5s;
 }
