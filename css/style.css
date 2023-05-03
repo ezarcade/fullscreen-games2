@@ -17,3 +17,24 @@ body {
     width: calc(20% + 70px);
     transition: width 0.5s;
 }
+
+
+
+
+
+
+
+.text-box2 {
+    width: 30%;
+    background-color: #d4a373;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto;
+    transition: all 0.5s ease-in-out;
+    margin-top: 10px;
+}
+
+.text-box2:hover {
+    width: calc(30% + 70px);
+    transition: width 0.5s;
+}
