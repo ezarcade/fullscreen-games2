@@ -1,5 +1,7 @@
+/*width: calc(20% + 15px);*/
+
 .text-box {
-    width: calc(fit-content + 15px);
+    width: 20%;
     background-color: #d4a373;
     border-radius: 25px;
     text-align: center;
