@@ -14,6 +14,6 @@ body {
 }
 
 .text-box:hover {
-    width: 40%;
+    width: calc(20% + 15px);;
     transition: width 0.5s;
 }
