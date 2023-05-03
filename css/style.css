@@ -19,7 +19,7 @@ body {
 }
 
 .text-box-small {
-    width: 10%;
+    width: 15%;
     background-color: #d4a373;
     border-radius: 25px;
     text-align: center;
@@ -28,8 +28,8 @@ body {
     margin-top: 10px;
 }
 
-.text-box-large:hover {
-    width: calc(10% + 70px);
+.text-box-small:hover {
+    width: calc(15% + 70px);
     transition: width 0.5s;
 }
 
