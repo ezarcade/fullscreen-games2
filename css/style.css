@@ -18,13 +18,22 @@ body {
     transition: width 0.5s;
 }
 
+.text-box-small {
+    width: 10%;
+    background-color: #d4a373;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto;
+    transition: all 0.5s ease-in-out;
+    margin-top: 10px;
+}
 
+.text-box-large:hover {
+    width: calc(10% + 70px);
+    transition: width 0.5s;
+}
 
-
-
-
-
-.text-box2 {
+.text-box-large {
     width: 30%;
     background-color: #d4a373;
     border-radius: 25px;
@@ -34,7 +43,7 @@ body {
     margin-top: 10px;
 }
 
-.text-box2:hover {
+.text-box-large:hover {
     width: calc(30% + 70px);
     transition: width 0.5s;
 }
