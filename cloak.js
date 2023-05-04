@@ -1,4 +1,4 @@
-function openGame() {
+function cloakLink() {
     var win = window.open()
     var url = "https://fullscreen-games.netlify.app/"
     var iframe = win.document.createElement("iframe")
