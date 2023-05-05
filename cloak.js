@@ -15,4 +15,5 @@ function cloakLink() {
     iframe.style.overflow = "hidden";
     iframe.src = url
     win.document.body.appendChild(iframe)
+    alert("don't refresh as it will stop the cloaking!");
     }
